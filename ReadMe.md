@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 **I'm currently working on**  <br>Building web applications, experimenting with AI-powered tools, and improving my development projects.<br><br>👯 **I'm looking to collaborate on**  <br>Open-source projects, web development, and interesting AI/ML projects.<br><br>🤝 **I'm looking for help with**  <br>Advanced JavaScript, backend development, system design, and writing better code.<br><br>🌱 **I'm currently learning**  <br>C++, Python, Data Structures & Algorithms, AI & Machine Learning, and full-stack development.<br><br>💬 **Ask me about**  <br>HTML, CSS, JavaScript, Git, GitHub, web development, and AI-assisted coding.<br><br>⚡ **Fun fact**  <br>I'm a chess enthusiast who enjoys building things, exploring technology, and turning ideas into working projects.<br>
 
 
